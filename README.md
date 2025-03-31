@@ -1,2 +1,2 @@
 # task-tracker
-A console project for personal tasks management
+Link: https://roadmap.sh/projects/task-tracker
